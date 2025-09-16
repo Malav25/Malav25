@@ -1,28 +1,37 @@
-# 👋 Hello, I'm a passionate developer.
+# 👋 Hello there! I'm a passionate developer.
 
 I'm a third-year Computer Science Engineering student at **LJ University**, driven by a passion for creating impactful software solutions. I thrive on turning innovative ideas into real-world applications and am always eager to improve my skills through coding challenges and project-based learning.
 
 ---
 
-### 💻 My Core Focus
-My primary interest is in **backend development**, where I enjoy architecting robust and scalable systems. I have a strong foundation in **Data Science** and **Artificial Intelligence**, with a solid grasp of fundamental concepts. I'm also dedicated to enhancing my problem-solving abilities by consistently practicing **Data Structures and Algorithms (DSA)**.
-
----
-
 ### 📈 Project & Product Management Skills
-As a project manager, I have expertise in:
-* **Agile Methodologies:** I'm experienced in leading and working within Agile and Sprint-based development environments to ensure efficient and timely project delivery.
-* **Stakeholder Communication:** I effectively communicate with cross-functional teams and stakeholders to document processes, solutions, and best practices.
-* **Project Lifecycle Management:** I have experience in managing projects from ideation to deployment, ensuring that all aspects align with business goals.
 
-**Certified in Google Project Management:**
-I hold the **Google Project Management Professional Certificate**, which has equipped me with industry-standard project management skills, including initiating, planning, executing, and closing projects.
+As a certified professional, I bring a structured approach to development projects. My skills include:
+* **Agile Methodologies:** Experienced in leading and collaborating within Agile and Sprint-based development environments to ensure efficient project delivery.
+* **Stakeholder Communication:** I effectively bridge the gap between technical teams and stakeholders, documenting processes and solutions to ensure clarity and alignment.
+* **Certified in Google Project Management:** I hold the **Google Project Management Professional Certificate**, which has equipped me with industry-standard skills for managing a project's full lifecycle, from initiation to closure.
 
 ---
 
-### 🛠️ Technologies & Tools
-Here are the technologies and tools I work with:
+### 🛠️ Languages & Tools
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp; ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp; ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor
+I'm proficient in a wide range of technologies, from full-stack development to data science.
+
+<br>
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-PgAdmin-316192?logo=postgresql&logoColor=white" alt="PgAdmin" height="35">
+<br><br>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="35">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" height="35">
+<br><br>
+
+---
+
+### 🌱 What I'm Learning Next
+
+I'm currently focused on deepening my knowledge of **cloud-native development** and exploring **microservices architecture** to build more resilient and scalable applications.
+
+---
+
+### 📫 Let's Connect
+
+* **LinkedIn:** [https://www.linkedin.com/in/malav-suthar-529b31247/]
+* **Email:** [malavsuthar73@gmail.com]
