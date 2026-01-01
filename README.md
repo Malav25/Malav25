@@ -1,6 +1,6 @@
 # 👋 Hello! I'm a passionate developer.
 
-I'm a third-year Computer Science Engineering student at LJ University, driven by a passion for creating impactful software solutions. I thrive on turning innovative ideas into real-world applications and am always eager to improve my skills through coding challenges and project-based learning.
+I'm a Final-year Computer Science Engineering student at LJ University, driven by a passion for creating impactful software solutions. I thrive on turning innovative ideas into real-world applications and am always eager to improve my skills through coding challenges and project-based learning.
 
 My journey in tech is fueled by a desire to build things that matter and solve complex problems. From exploring the logic of data structures to architecting robust backend systems, I'm always excited to dive into a new challenge. I believe that technology has the power to transform industries and improve lives, and I'm committed to being a part of that change.
 
